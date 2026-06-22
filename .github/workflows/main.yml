@@ -41,7 +41,7 @@ on:
 
       ipa_url:
         description: "URL to the decrypted IPA file"
-        default: ""
+        default: "https://3008.filemail.com/api/file/get?filekey=1ADKiY_Fua44wTUS1JfkBQsgChGlFKmVBWu4lSKY_42fEyi8y8lKb70RBHjfKHu26r6D5OtDhpPUAR6f5uO6WSNWQRInY1FBDX_Ze25b"
         required: true
         type: string
 
